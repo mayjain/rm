@@ -1,3 +1,4 @@
+-- changee by mayank
 
 drop table shop_pay_card_types cascade;
 drop sequence shop_pay_card_types_seq;
